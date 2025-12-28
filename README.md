@@ -1,4 +1,5 @@
-C:\Users\UmirzokovaS\OneDrive\Desktop\StudentCRUD\StudentProject\StudentCRUD.Appllication\Student.gif
+![Student](https://github.com/user-attachments/assets/adeb244e-1008-4557-a301-250618b712f6)
+
 Dastur quyidagi imkoniyatlarni beradi:
 
 1. ➕ Student qo‘shish (Add)
